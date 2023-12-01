@@ -25,4 +25,4 @@ print(legs(Ichicken,Icow,Ipig))
 
 ### outputOfFarmerChallenge
 
-![Alt screen for readers](farmerOutput.PNG)
+![alt tag for screen readers](farmerOutput.PNG)
