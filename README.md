@@ -2,8 +2,8 @@
 
 welcome to my portfolio, this will look at the python projects that i have created this year:
 
-## Mastermind
-code for mastermind:
+## famer calculator
+code for famer calculator:
 
 ```python
 def legs(chicken,cow,pig):
@@ -23,6 +23,6 @@ print(legs(Ichicken,Icow,Ipig))
 
 ```
 
-### output
-![Alt text](farmerOutput.PNG)
+### outputOfFarmerChallenge
 
+![Alt screen for readers](farmerOutput.PNG)
