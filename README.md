@@ -24,5 +24,5 @@ print(legs(Ichicken,Icow,Ipig))
 ```
 
 ### output
-![Alt text](image.png)
+![Alt text](farmerOutput.PNG)
 
